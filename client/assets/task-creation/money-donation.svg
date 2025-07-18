@@ -1,0 +1,11 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Money Donation Icon">
+<!-- Coin/Money symbol -->
+<circle cx="12" cy="12" r="8" stroke="currentColor" stroke-width="2" fill="none"/>
+<path d="M12 8V16" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+<path d="M9 10C9 9.44772 9.44772 9 10 9H14C14.5523 9 15 9.44772 15 10C15 10.5523 14.5523 11 14 11H10C9.44772 11 9 11.4477 9 12C9 12.5523 9.44772 13 10 13H14C14.5523 13 15 13.4477 15 14C15 14.5523 14.5523 15 14 15H10C9.44772 15 9 14.5523 9 14" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+<!-- Giving/donation arrows -->
+<path d="M4 8L6 6L4 4" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M20 16L18 18L20 20" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</svg> 

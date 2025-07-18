@@ -1,0 +1,21 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Ekadashi Fasting Icon">
+<!-- Moon (Ekadashi is lunar-based) -->
+<circle cx="12" cy="12" r="6" stroke="currentColor" stroke-width="2" fill="none"/>
+<!-- Moon phases showing 11th day -->
+<path d="M12 6C15 6 18 9 18 12C18 15 15 18 12 18" fill="currentColor"/>
+<!-- Sacred number 11 symbolism -->
+<path d="M9 8L9 16" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+<path d="M11 8L11 16" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+<!-- Spiritual energy rays -->
+<path d="M12 2L12 4" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
+<path d="M12 20L12 22" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
+<path d="M2 12L4 12" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
+<path d="M20 12L22 12" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
+<!-- Diagonal rays -->
+<path d="M6 6L7 7" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
+<path d="M17 17L18 18" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
+<path d="M6 18L7 17" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
+<path d="M17 7L18 6" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
+</g>
+</svg> 

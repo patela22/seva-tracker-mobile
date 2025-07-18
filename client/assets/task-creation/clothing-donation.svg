@@ -1,0 +1,12 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Clothing Donation Icon">
+<!-- T-shirt/garment outline -->
+<path d="M8 4C8 4 8 2 12 2C16 2 16 4 16 4" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M6 8L8 4H16L18 8V10L16 9V20C16 21 15 22 14 22H10C9 22 8 21 8 20V9L6 10V8Z" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<!-- Donation/giving symbols -->
+<path d="M3 6L5 8L3 10" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M21 6L19 8L21 10" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<!-- Heart symbol for charity -->
+<path d="M12 14C12 14 10 12 8.5 12C7.5 12 7 12.5 7 13.5C7 14.5 8.5 16 12 18C15.5 16 17 14.5 17 13.5C17 12.5 16.5 12 15.5 12C14 12 12 14 12 14Z" fill="currentColor"/>
+</g>
+</svg> 

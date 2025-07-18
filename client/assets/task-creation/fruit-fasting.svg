@@ -1,0 +1,21 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Fruit Fasting Icon">
+<!-- Bowl with fruits -->
+<path d="M6 12C6 12 7 18 12 18C17 18 18 12 18 12" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M6 12H18" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+<!-- Fruits in bowl -->
+<circle cx="9" cy="10" r="1.5" fill="currentColor"/>
+<circle cx="12" cy="9" r="1.5" fill="currentColor"/>
+<circle cx="15" cy="10" r="1.5" fill="currentColor"/>
+<!-- Fruit stems/leaves -->
+<path d="M9 8L9 7" stroke="currentColor" stroke-width="1" stroke-linecap="round"/>
+<path d="M12 7L12 6" stroke="currentColor" stroke-width="1" stroke-linecap="round"/>
+<path d="M15 8L15 7" stroke="currentColor" stroke-width="1" stroke-linecap="round"/>
+<!-- Natural/spiritual energy -->
+<path d="M12 3L12 5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
+<path d="M19 9L17 11" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
+<path d="M5 9L7 11" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
+<!-- Blessing hands above -->
+<path d="M10 5C10 5 11 4 12 4C13 4 14 5 14 5" stroke="currentColor" stroke-width="1" stroke-linecap="round"/>
+</g>
+</svg> 

@@ -1,0 +1,22 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Japa Beads Icon">
+<!-- Main circular mala -->
+<circle cx="12" cy="12" r="8" stroke="currentColor" stroke-width="2" fill="none"/>
+<!-- Individual beads around the circle -->
+<circle cx="12" cy="4" r="1.5" fill="currentColor"/>
+<circle cx="16.5" cy="6" r="1.5" fill="currentColor"/>
+<circle cx="18" cy="10" r="1.5" fill="currentColor"/>
+<circle cx="18" cy="14" r="1.5" fill="currentColor"/>
+<circle cx="16.5" cy="18" r="1.5" fill="currentColor"/>
+<circle cx="12" cy="20" r="1.5" fill="currentColor"/>
+<circle cx="7.5" cy="18" r="1.5" fill="currentColor"/>
+<circle cx="6" cy="14" r="1.5" fill="currentColor"/>
+<circle cx="6" cy="10" r="1.5" fill="currentColor"/>
+<circle cx="7.5" cy="6" r="1.5" fill="currentColor"/>
+<!-- Center guru bead -->
+<circle cx="12" cy="12" r="2" fill="currentColor"/>
+<!-- Tassel indicator -->
+<path d="M12 14L12 17" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+<path d="M11 17L13 17" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+</g>
+</svg>

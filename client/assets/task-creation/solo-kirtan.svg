@@ -1,0 +1,21 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Solo Kirtan Icon">
+<!-- Person singing solo -->
+<circle cx="12" cy="7" r="2.5" stroke="currentColor" stroke-width="2" fill="none"/>
+<!-- Open mouth for singing -->
+<circle cx="12" cy="9" r="0.5" fill="currentColor"/>
+<!-- Body -->
+<path d="M12 9.5V18" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+<path d="M8 13L12 12L16 13" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+<path d="M8 20L12 18L16 20" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+<!-- Musical notes flowing from solo singer -->
+<circle cx="16" cy="9" r="1" fill="currentColor"/>
+<path d="M16 9L18 7" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+<circle cx="19" cy="6" r="1" fill="currentColor"/>
+<path d="M19 6L21 4" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+<!-- Heart-centered devotion -->
+<path d="M12 13C12 13 10.5 12 9.5 12C8.5 12 8 12.5 8 13.5C8 14.5 9.5 16 12 17.5C14.5 16 16 14.5 16 13.5C16 12.5 15.5 12 14.5 12C13.5 12 12 13 12 13Z" fill="currentColor" opacity="0.5"/>
+<!-- Divine connection ray -->
+<path d="M12 4L12 2" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+</g>
+</svg> 

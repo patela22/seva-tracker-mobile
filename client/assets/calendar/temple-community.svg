@@ -1,0 +1,10 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Temple Community Icon">
+<path d="M12 2L4 8V20H8V16H16V20H20V8L12 2Z" stroke="#EF4444" stroke-width="2" stroke-linejoin="round"/>
+<path d="M8 12H16" stroke="#EF4444" stroke-width="2" stroke-linecap="round"/>
+<circle cx="12" cy="6" r="1" fill="#EF4444"/>
+<path d="M2 20H22" stroke="#EF4444" stroke-width="2" stroke-linecap="round"/>
+<path d="M10 16V20" stroke="#EF4444" stroke-width="2" stroke-linecap="round"/>
+<path d="M14 16V20" stroke="#EF4444" stroke-width="2" stroke-linecap="round"/>
+</g>
+</svg> 

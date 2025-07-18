@@ -1,0 +1,15 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Mindfulness Meditation Icon">
+<!-- Sitting meditation figure -->
+<circle cx="12" cy="6" r="2" stroke="currentColor" stroke-width="2" fill="none"/>
+<!-- Body -->
+<path d="M12 8V14" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+<!-- Crossed legs -->
+<path d="M8 14C8 14 10 16 12 16C14 16 16 14 16 14" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+<!-- Arms in meditation pose -->
+<path d="M9 10C9 10 10 12 12 12C14 12 15 10 15 10" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+<!-- Mindfulness circles/awareness -->
+<circle cx="12" cy="12" r="8" stroke="currentColor" stroke-width="1" fill="none" opacity="0.5"/>
+<circle cx="12" cy="12" r="10" stroke="currentColor" stroke-width="1" fill="none" opacity="0.3"/>
+</g>
+</svg> 
